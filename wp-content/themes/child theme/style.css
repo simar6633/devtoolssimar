@@ -1,0 +1,15 @@
+/*
+Theme Name: first child theme;
+Theme URI:simarsingh.fun;
+Description: This is a child theme developed for the  devtools 2 class;
+Author: simar;
+Version: 1.0;
+Template: twentysixteen;
+*/
+
+@import url('../twentysixteen/style.css');
+/*@import url('https://fonts.googleapis.com/css?family=PT+Serif|Work+Sans');
+
+
+/* font-family: 'PT Serif', serif;
+font-family: 'Work Sans', sans-serif;
